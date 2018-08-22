@@ -1,4 +1,4 @@
 # Random things in go
 
-+ Marhsalling and Unmarshalling example
++ Marshalling and Unmarshalling example
 + String split example
